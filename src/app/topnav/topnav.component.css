@@ -1,11 +1,11 @@
 nav a{
-  color: black;
+  color: white;
   padding-left: 10px;
   font-weight: bold;
 }
 
 nav{
-  background-color: rgb(165, 168, 175) !important;
+  background-color: #45526e !important;
   margin-top: 10px;
 }
 
