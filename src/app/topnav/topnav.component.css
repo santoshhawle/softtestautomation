@@ -1,0 +1,14 @@
+nav a{
+  color: white;
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+nav{
+  background-color: purple !important;
+  margin-top: 10px;
+}
+
+#rootcomponent{
+background-color: white;
+}

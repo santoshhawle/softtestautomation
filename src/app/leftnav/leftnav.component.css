@@ -1,0 +1,8 @@
+ul li{
+  background-color: rgb(217, 197, 236);
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #c9c8c8;
+  margin-bottom: 5px;
+  font-family: 1.7rem / 1.5 "Source Sans Pro", "Hiragino Sans GB", "Microsoft JhengHei", arial, helvetica, sans-serif;
+}

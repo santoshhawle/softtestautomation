@@ -1,0 +1,20 @@
+div.card img{
+  height: 280px;
+  width: 100%;
+  border-color: gray;
+  padding: 30px 30px 30px;
+}
+
+
+.card{
+  background-color: rgb(223, 206, 240);
+}
+
+.card:hover{
+  background-color: rgb(163, 104, 219);
+}
+
+
+ul li{
+  font-family: 1.7rem / 1.5 "Source Sans Pro", "Hiragino Sans GB", "Microsoft JhengHei", arial, helvetica, sans-serif;
+}
